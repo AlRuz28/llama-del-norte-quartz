@@ -7,8 +7,6 @@ tags: [diario-party, lugar, puerto, contrabando]
 
 # Almacén 7 y el Puerto
 
-![Almacén 7](imagenes/almacen-7.jpg)
-
 ## Lo que el party sabe
 Almacén en los muelles de Neverwinter que investigamos tras encontrar
 ratas muertas sin heridas visibles. Ahí descubrimos gemas drenadoras de

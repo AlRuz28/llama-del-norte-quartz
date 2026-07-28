@@ -9,6 +9,8 @@ tags: [diario-party, npc, menor, nobleza, erudito]
 
 # Maestro Aldric Stonequill
 
+![Maestro Aldric Stonequill](<imagenes/Maestro Aldric Stonequill.png>)
+
 *(no confundir con [[capitan-aldric-stonebridge|Capitán Aldric
 Stonebridge]] — comparten nombre de pila, son personas distintas)*
 

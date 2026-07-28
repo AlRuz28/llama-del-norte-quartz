@@ -7,8 +7,6 @@ tags: [diario-party, lugar, neverwinter, nobleza, conocimiento-general]
 
 # Bluelake District
 
-![Bluelake District](imagenes/bluelake-district.jpg)
-
 ## Lo que el party sabe
 Distrito de mansiones nobles, construido alrededor del lago Bluelake.
 Mejoró mucho en los últimos años tras un período de abandono y ocupación

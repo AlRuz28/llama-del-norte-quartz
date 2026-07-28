@@ -7,8 +7,6 @@ tags: [diario-party, lugar, neverwinter, conocimiento-general]
 
 # Las Motas Flotantes
 
-![Motas flotantes](imagenes/motas-flotantes.jpg)
-
 ## Lo que el party sabe
 Tres fragmentos de la ciudad que quedaron flotando tras la Plaga de
 Hechicería, atados con cadenas para que no se alejen a la deriva: el

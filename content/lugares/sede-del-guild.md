@@ -7,8 +7,6 @@ tags: [diario-party, lugar, guild, sede]
 
 # Sede del Guild — La Llama del Norte
 
-![Sede del guild](imagenes/sede-del-guild.jpg)
-
 ## Lo que el party sabe
 Nuestra casa. La mansión que nos prestaba Lady Seraphine pasó a ser
 nuestra por testamento tras su asesinato (OS07). Tiene sala común,

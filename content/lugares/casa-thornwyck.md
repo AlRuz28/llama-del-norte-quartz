@@ -7,8 +7,6 @@ tags: [diario-party, lugar, nobleza]
 
 # Casa Thornwyck
 
-![Casa Thornwyck](imagenes/casa-thornwyck.jpg)
-
 ## Lo que el party sabe
 Residencia de Lady Marisella Thornwyck en el Distrito Alto. Nos recibió
 ahí en una velada social — buena comida, buena compañía, nada fuera de lo

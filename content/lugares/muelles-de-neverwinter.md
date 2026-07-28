@@ -7,8 +7,6 @@ tags: [diario-party, lugar, neverwinter, puerto, conocimiento-general]
 
 # Los Muelles de Neverwinter
 
-![Muelles de Neverwinter](imagenes/muelles.jpg)
-
 ## Lo que el party sabe
 El puerto de la ciudad, zona de contrabandistas y comercio — la guardia
 vigila pero rara vez interviene de lleno. La taberna más famosa es **The

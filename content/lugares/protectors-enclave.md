@@ -7,8 +7,6 @@ tags: [diario-party, lugar, neverwinter, conocimiento-general]
 
 # Protector's Enclave
 
-![Protector's Enclave](imagenes/protectors-enclave.jpg)
-
 ## Lo que el party sabe
 Distrito central de Neverwinter, sede simbólica de la reconstrucción
 espiritual de la ciudad: el Salón de la Justicia (templo de Tyr) y la

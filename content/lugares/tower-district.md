@@ -7,8 +7,6 @@ tags: [diario-party, lugar, neverwinter, magia, conocimiento-general]
 
 # Tower District
 
-![Tower District](imagenes/tower-district.jpg)
-
 ## Lo que el party sabe
 El distrito de la magia y las torres de mago. El **Shard de la Luna**
 (una torre flotante purificada hace años) domina el paisaje de noche. La

@@ -7,8 +7,6 @@ tags: [diario-party, lugar, nobleza, combate]
 
 # Mansión Ravencrest
 
-![Mansión Ravencrest](imagenes/mansion-ravencrest.jpg)
-
 ## Lo que el party sabe
 Residencia de Lord Emmett Ravencrest. Ahí tuvimos la confrontación final
 tras el asesinato de Lady Seraphine — Ravencrest convocó un diablo durante

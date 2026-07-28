@@ -7,8 +7,6 @@ tags: [diario-party, lugar, neverwinter, no-muertos, conocimiento-general]
 
 # Chasm District y Neverdeath
 
-![Chasm District](imagenes/chasm-district.jpg)
-
 ## Lo que el party sabe
 Al sureste de la ciudad: la Grieta que se abrió durante el cataclismo, ya
 sellada por Neverember, hoy tierra libre para colonos audaces o pobres.
