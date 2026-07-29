@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-lugar
+title: "Las Motas Flotantes"
 campana: La Llama del Norte
 lugar_maestro: "[[Mundos/Neverwinter/lugares/floating-earthmotes]]"
 tags: [diario-party, lugar, neverwinter, conocimiento-general]

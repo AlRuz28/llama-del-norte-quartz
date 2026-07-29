@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-lugar
+title: "El Cofre de Tymora"
 campana: La Llama del Norte
 lugar_maestro: "[[../../lugares/cofre-de-tymora]]"
 tags: [diario-party, lugar, tymora, casa-de-empeños]

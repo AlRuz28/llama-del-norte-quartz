@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-lugar
+title: "Chasm District y Neverdeath"
 campana: La Llama del Norte
 lugar_maestro: "[[Mundos/Neverwinter/lugares/chasm-district-y-neverdeath]]"
 tags: [diario-party, lugar, neverwinter, no-muertos, conocimiento-general]

@@ -1,12 +1,13 @@
 ---
 tipo: diario-party-sesion
+title: "Sesión OS06 — Pactos Bajo la Luna"
 campana: La Llama del Norte
 numero: OS06
 fecha: 
 tags: [diario-party, sesion, OS06]
 ---
 
-# Sesión OS06 — Pactos Bajo la Luna (vista del party)
+# Sesión OS06 — Pactos Bajo la Luna
 
 ![Sesión OS06 — En el templo secreto](<imagenes/OS06 - En el templo secreto.png>)
 

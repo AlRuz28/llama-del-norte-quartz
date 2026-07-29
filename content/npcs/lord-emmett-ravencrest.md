@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-npc
+title: "Lord Emmett Ravencrest"
 campana: La Llama del Norte
 npc_maestro: "[[../../npcs/lord-emmett-ravencrest]]"
 estado: muerto

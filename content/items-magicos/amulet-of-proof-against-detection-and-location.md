@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-item
+title: "Amulet of Proof against Detection and Location"
 campana: La Llama del Norte
 quien_lo_tiene: "[[../../pcs/norki-piepapitas]]"
 item_referencia: "[[Reglas/items-magicos/amulet-of-proof-against-detection-and-location]]"

@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-lugar
+title: "Los Muelles de Neverwinter"
 campana: La Llama del Norte
 lugar_maestro: "[[Mundos/Neverwinter/lugares/neverwinter-docks]]"
 tags: [diario-party, lugar, neverwinter, puerto, conocimiento-general]

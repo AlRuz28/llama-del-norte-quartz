@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-npc
+title: "Sir Alden Hawkwinter"
 campana: La Llama del Norte
 npc_maestro: "[[../../npcs/sir-alden-hawkwinter]]"
 estado: vivo

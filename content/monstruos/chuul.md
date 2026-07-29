@@ -1,12 +1,13 @@
 ---
 tipo: diario-party-monstruo
+title: "Chuul"
 fuente: srd
 campana: La Llama del Norte
 monstruo_maestro: 
 tags: [diario-party, monstruo, aberracion, el-vado]
 ---
 
-# Chuul (notas del party)
+# Chuul
 
 ![Chuul](imagenes/Chuul.png)
 

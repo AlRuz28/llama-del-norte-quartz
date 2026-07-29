@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-npc
+title: "Valorian Duskryn"
 campana: La Llama del Norte
 npc_maestro: "[[../../npcs/valorian-duskryn]]"
 estado: vivo

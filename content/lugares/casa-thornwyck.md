@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-lugar
+title: "Casa Thornwyck"
 campana: La Llama del Norte
 lugar_maestro: "[[../../lugares/casa-thornwyck]]"
 tags: [diario-party, lugar, nobleza]

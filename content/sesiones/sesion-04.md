@@ -1,12 +1,13 @@
 ---
 tipo: diario-party-sesion
+title: "Sesión OS04 — El Verdor Encadenado"
 campana: La Llama del Norte
 numero: OS04
 fecha: 
 tags: [diario-party, sesion, OS04]
 ---
 
-# Sesión OS04 — El Verdor Encadenado (vista del party)
+# Sesión OS04 — El Verdor Encadenado
 
 ![Sesión OS04 — Verdor encadenado](<imagenes/OS04 - Verdor encadenado.png>)
 

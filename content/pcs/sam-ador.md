@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-pc
+title: "Sam Ádor"
 campana: La Llama del Norte
 jugador: 
 raza: Dwarf

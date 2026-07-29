@@ -1,12 +1,13 @@
 ---
 tipo: diario-party-sesion
+title: "Sesión OS08 — El Vado del Río Frío"
 campana: La Llama del Norte
 numero: OS08
 fecha: 
 tags: [diario-party, sesion, OS08]
 ---
 
-# Sesión OS08 — El Vado del Río Frío (vista del party)
+# Sesión OS08 — El Vado del Río Frío
 
 ![Sesión OS08 — Cámara oculta](<imagenes/OS08 - Cámara oculta.png>)
 

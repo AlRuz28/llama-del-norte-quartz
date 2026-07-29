@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-npc
+title: "Jorvan Talbren"
 campana: La Llama del Norte
 npc_maestro: "[[../../npcs/jorvan-talbren]]"
 estado: vivo

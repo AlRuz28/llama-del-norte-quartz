@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-pc
+title: "Norki Piepapitas"
 campana: La Llama del Norte
 jugador: 
 raza: Halfling

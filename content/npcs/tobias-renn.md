@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-npc
+title: "Tobias Renn"
 campana: La Llama del Norte
 npc_maestro: "[[../../npcs/tobias-renn]]"
 estado: vivo

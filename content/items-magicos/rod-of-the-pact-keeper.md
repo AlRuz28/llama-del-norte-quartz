@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-item
+title: "Rod of the Pact Keeper +1"
 campana: La Llama del Norte
 quien_lo_tiene: "[[../../pcs/waro-waro-waru]]"
 item_referencia: "[[Reglas/items-magicos/rod-of-the-pact-keeper]]"

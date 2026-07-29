@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-npc
+title: "Lady Isara Moonwhisper"
 campana: La Llama del Norte
 npc_maestro: "[[../../npcs/lady-isara-moonwhisper]]"
 estado: vivo

@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-npc
+title: "Lord Cassius Harwell"
 campana: La Llama del Norte
 npc_maestro: "[[../../npcs/lord-cassius-harwell]]"
 estado: vivo

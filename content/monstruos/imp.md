@@ -1,12 +1,13 @@
 ---
 tipo: diario-party-monstruo
+title: "Imp"
 fuente: srd
 campana: La Llama del Norte
 monstruo_maestro: "[[../../../Bestiario/srd/imp]]"
 tags: [diario-party, monstruo, diablo, culto-asmodeus, os06]
 ---
 
-# Imp (notas del party)
+# Imp
 
 ![Imp](imagenes/Imp.png)
 

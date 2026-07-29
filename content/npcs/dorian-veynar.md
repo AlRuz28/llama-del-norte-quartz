@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-npc
+title: "Dorian Veynar"
 campana: La Llama del Norte
 npc_maestro: "[[../../npcs/dorian-veynar]]"
 estado: vivo

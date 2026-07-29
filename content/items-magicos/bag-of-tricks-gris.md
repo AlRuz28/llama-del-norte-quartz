@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-item
+title: "Bag of Tricks (gris)"
 campana: La Llama del Norte
 quien_lo_tiene: "[[../../pcs/rami]]"
 item_referencia: "[[Reglas/items-magicos/bag-of-tricks]]"

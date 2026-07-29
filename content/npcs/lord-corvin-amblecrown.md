@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-npc
+title: "Lord Corvin Amblecrown"
 campana: La Llama del Norte
 npc_maestro: "[[../../npcs/lord-corvin-amblecrown]]"
 estado: vivo

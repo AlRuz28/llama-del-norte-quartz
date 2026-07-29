@@ -1,12 +1,13 @@
 ---
 tipo: diario-party-monstruo
+title: "Bearded Devil"
 fuente: srd
 campana: La Llama del Norte
 monstruo_maestro: 
 tags: [diario-party, monstruo, diablo, culto-asmodeus]
 ---
 
-# Bearded Devil (notas del party)
+# Bearded Devil
 
 ![Bearded Devil](<imagenes/Bearded Devil.png>)
 

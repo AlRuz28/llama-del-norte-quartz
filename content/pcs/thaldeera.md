@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-pc
+title: "Thaldeera"
 campana: La Llama del Norte
 jugador: 
 raza: Aasimar

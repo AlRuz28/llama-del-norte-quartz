@@ -1,12 +1,13 @@
 ---
 tipo: diario-party-monstruo
+title: "Vine Blight"
 fuente: oficial-fragmento
 campana: La Llama del Norte
 monstruo_maestro: "[[../../../Bestiario/mm/vine-blight]]"
 tags: [diario-party, monstruo, planta, os04]
 ---
 
-# Vine Blight (notas del party)
+# Vine Blight
 
 ![Vine Blight](<imagenes/Vine Blight.png>)
 

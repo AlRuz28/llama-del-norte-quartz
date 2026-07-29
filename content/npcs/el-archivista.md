@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-npc
+title: "El Archivista"
 campana: La Llama del Norte
 npc_maestro: "[[../../npcs/el-archivista]]"
 estado: vivo

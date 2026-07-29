@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-lugar
+title: "Protector's Enclave"
 campana: La Llama del Norte
 lugar_maestro: "[[Mundos/Neverwinter/lugares/protectors-enclave]]"
 tags: [diario-party, lugar, neverwinter, conocimiento-general]

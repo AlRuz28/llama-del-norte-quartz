@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-npc
+title: "Harlim Stonefist"
 campana: La Llama del Norte
 npc_maestro: "[[../../npcs/harlim-stonefist]]"
 estado: vivo

@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-npc
+title: "Silas Shadowbane"
 campana: La Llama del Norte
 npc_maestro: "[[../../npcs/silas-shadowbane]]"
 estado: muerto

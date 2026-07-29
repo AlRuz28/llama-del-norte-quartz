@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-npc
+title: "Mira Holt"
 campana: La Llama del Norte
 npc_maestro: "[[../../npcs/mira-holt]]"
 estado: vivo

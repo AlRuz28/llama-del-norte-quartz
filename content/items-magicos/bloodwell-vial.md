@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-item
+title: "Bloodwell Vial +1"
 campana: La Llama del Norte
 quien_lo_tiene: "[[../../pcs/nethhiri]]"
 item_referencia: 

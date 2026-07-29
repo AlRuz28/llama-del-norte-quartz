@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-npc
+title: "Sister Maela"
 campana: La Llama del Norte
 npc_maestro: "[[../../npcs/sister-maela]]"
 estado: vivo

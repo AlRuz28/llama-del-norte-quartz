@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-lugar
+title: "Sede del Guild — La Llama del Norte"
 campana: La Llama del Norte
 lugar_maestro: "[[../../lugares/sede-del-guild]]"
 tags: [diario-party, lugar, guild, sede]

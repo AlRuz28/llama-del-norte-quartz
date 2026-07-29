@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-item
+title: "Sentinel Shield"
 campana: La Llama del Norte
 quien_lo_tiene: "[[../../pcs/oxxn]]"
 item_referencia: "[[Reglas/items-magicos/sentinel-shield]]"

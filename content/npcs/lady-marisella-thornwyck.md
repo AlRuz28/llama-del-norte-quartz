@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-npc
+title: "Lady Marisella Thornwyck"
 campana: La Llama del Norte
 npc_maestro: "[[../../npcs/lady-marisella-thornwyck]]"
 estado: vivo

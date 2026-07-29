@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-npc
+title: "Vyra Ashentongue"
 campana: La Llama del Norte
 npc_maestro: "[[../../npcs/vyra-ashentongue]]"
 estado: vivo

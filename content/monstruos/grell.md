@@ -1,12 +1,13 @@
 ---
 tipo: diario-party-monstruo
+title: "Grell"
 fuente: oficial-fragmento
 campana: La Llama del Norte
 monstruo_maestro: 
 tags: [diario-party, monstruo, aberracion, cristal]
 ---
 
-# Grell (notas del party)
+# Grell
 
 ![Grell](imagenes/Grell.png)
 

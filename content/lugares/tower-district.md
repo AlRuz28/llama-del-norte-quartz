@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-lugar
+title: "Tower District"
 campana: La Llama del Norte
 lugar_maestro: "[[Mundos/Neverwinter/lugares/tower-district]]"
 tags: [diario-party, lugar, neverwinter, magia, conocimiento-general]

@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-item
+title: "Boots of Speed"
 campana: La Llama del Norte
 quien_lo_tiene: "[[../../pcs/norki-piepapitas]]"
 item_referencia: "[[Reglas/items-magicos/boots-of-speed]]"

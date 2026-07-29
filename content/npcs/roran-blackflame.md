@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-npc
+title: "Roran Blackflame"
 campana: La Llama del Norte
 npc_maestro: "[[../../npcs/roran-blackflame]]"
 estado: vivo

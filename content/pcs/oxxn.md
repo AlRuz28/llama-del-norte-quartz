@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-pc
+title: "Oxxn"
 campana: La Llama del Norte
 jugador: 
 raza: Orc

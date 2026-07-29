@@ -1,12 +1,13 @@
 ---
 tipo: diario-party-monstruo
+title: "Nothic"
 fuente: srd
 campana: La Llama del Norte
 monstruo_maestro: 
 tags: [diario-party, monstruo, aberracion, cristal]
 ---
 
-# Nothic (notas del party)
+# Nothic
 
 ![Nothic](imagenes/Nothic.png)
 

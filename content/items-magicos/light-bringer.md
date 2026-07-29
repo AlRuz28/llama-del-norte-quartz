@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-item
+title: "Light Bringer"
 campana: La Llama del Norte
 quien_lo_tiene: "[[../../pcs/sam-ador]]"
 item_referencia: "[[Reglas/items-magicos/sun-blade]]"

@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-npc
+title: "Mirabel \"Mira\" Stoneflow"
 campana: La Llama del Norte
 npc_maestro: "[[../../npcs/mirabel-stoneflow]]"
 estado: vivo

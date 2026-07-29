@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-index
+title: "NPCs"
 campana: La Llama del Norte
 tags: [diario-party, npc]
 ---

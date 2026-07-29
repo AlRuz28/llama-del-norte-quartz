@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-npc
+title: "Maestro Aldric Stonequill"
 campana: La Llama del Norte
 npc_maestro: "[[../../npcs/aldric-stonequill]]"
 estado: vivo

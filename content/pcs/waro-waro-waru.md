@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-pc
+title: "Waro Waro Waru"
 campana: La Llama del Norte
 jugador: 
 raza: Human

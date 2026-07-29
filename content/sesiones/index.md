@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-index
+title: "Aventuras"
 campana: La Llama del Norte
 tags: [diario-party, sesion]
 ---

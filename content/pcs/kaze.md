@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-pc
+title: "Kaze, Fist of Bahamut"
 campana: La Llama del Norte
 jugador: 
 raza: Dragonborn

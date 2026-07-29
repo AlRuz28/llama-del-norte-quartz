@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-lugar
+title: "Bluelake District"
 campana: La Llama del Norte
 lugar_maestro: "[[Mundos/Neverwinter/lugares/bluelake-district]]"
 tags: [diario-party, lugar, neverwinter, nobleza, conocimiento-general]

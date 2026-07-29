@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-index
+title: "Lugares"
 campana: La Llama del Norte
 tags: [diario-party, lugar]
 ---

@@ -1,12 +1,13 @@
 ---
 tipo: diario-party-sesion
+title: "Sesión OS07 — Sangre Noble / Herencia de Cenizas"
 campana: La Llama del Norte
 numero: OS07
 fecha: 
 tags: [diario-party, sesion, OS07, evento-culminante]
 ---
 
-# Sesión OS07 — Sangre Noble / Herencia de Cenizas (vista del party)
+# Sesión OS07 — Sangre Noble / Herencia de Cenizas
 
 ![Sesión OS07 — Escena del crimen](<imagenes/OS07 - Escena del crimen.png>)
 

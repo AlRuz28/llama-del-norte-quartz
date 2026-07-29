@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-pc
+title: "Rami"
 campana: La Llama del Norte
 jugador: 
 raza: Elf (Wood Elf)

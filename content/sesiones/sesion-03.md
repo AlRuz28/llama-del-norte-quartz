@@ -1,12 +1,13 @@
 ---
 tipo: diario-party-sesion
+title: "Sesión OS03 — Contrabando Mágico en el Puerto"
 campana: La Llama del Norte
 numero: OS03
 fecha: 
 tags: [diario-party, sesion, OS03]
 ---
 
-# Sesión OS03 — Contrabando Mágico en el Puerto (vista del party)
+# Sesión OS03 — Contrabando Mágico en el Puerto
 
 ## Qué recuerda el grupo
 Nivel 3. Un aviso de una rata conocida de Rami nos llevó al puerto,

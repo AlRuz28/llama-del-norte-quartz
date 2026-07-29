@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-lugar
+title: "El Vado del Río Frío y las Ruinas Submarinas"
 campana: La Llama del Norte
 lugar_maestro: "[[../../lugares/el-vado-y-las-ruinas-submarinas]]"
 tags: [diario-party, lugar, el-vado, ruinas]

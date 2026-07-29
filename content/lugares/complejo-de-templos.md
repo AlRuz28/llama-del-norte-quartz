@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-lugar
+title: "Complejo de Templos (Tyr, Helm, Oghma)"
 campana: La Llama del Norte
 lugar_maestro: "[[../../lugares/complejo-de-templos]]"
 tags: [diario-party, lugar, templo, tyr, oghma, biblioteca]

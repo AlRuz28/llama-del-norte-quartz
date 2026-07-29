@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-npc
+title: "Lady Seraphine Duskryn"
 campana: La Llama del Norte
 npc_maestro: "[[../../npcs/lady-seraphine-duskryn]]"
 estado: muerto

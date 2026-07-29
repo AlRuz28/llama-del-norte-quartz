@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-npc
+title: "Capitán Aldric Stonebridge"
 campana: La Llama del Norte
 npc_maestro: "[[../../npcs/capitan-aldric-stonebridge]]"
 estado: vivo

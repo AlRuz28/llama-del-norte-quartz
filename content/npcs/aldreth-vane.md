@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-npc
+title: "Aldreth Vane (\"Vanecito\")"
 campana: La Llama del Norte
 npc_maestro: "[[../../npcs/aldreth-vane]]"
 estado: muerto

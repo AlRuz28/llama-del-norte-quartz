@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-npc
+title: "Thalara Raízdebruma"
 campana: La Llama del Norte
 npc_maestro: "[[../../npcs/thalara-raizdebruma]]"
 estado: vivo

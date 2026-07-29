@@ -1,12 +1,13 @@
 ---
 tipo: diario-party-sesion
+title: "Sesión OS02 — Sangre en el Camino"
 campana: La Llama del Norte
 numero: OS02
 fecha: 
 tags: [diario-party, sesion, OS02]
 ---
 
-# Sesión OS02 — Sangre en el Camino (vista del party)
+# Sesión OS02 — Sangre en el Camino
 
 ## Qué recuerda el grupo
 Nivel 3. Cena social en la Mansión Duskryn organizada por Lady Seraphine:

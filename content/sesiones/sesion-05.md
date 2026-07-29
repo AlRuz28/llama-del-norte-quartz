@@ -1,12 +1,13 @@
 ---
 tipo: diario-party-sesion
+title: "Sesión OS05 — Negocios Peligrosos"
 campana: La Llama del Norte
 numero: OS05
 fecha: 
 tags: [diario-party, sesion, OS05]
 ---
 
-# Sesión OS05 — Negocios Peligrosos (vista del party)
+# Sesión OS05 — Negocios Peligrosos
 
 ## Qué recuerda el grupo
 Nivel 3. Conocimos a Roran Blackflame (Zhentarim) a través de Sister

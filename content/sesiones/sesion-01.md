@@ -1,12 +1,13 @@
 ---
 tipo: diario-party-sesion
+title: "Sesión OS01 — Las Ruinas Profanadas"
 campana: La Llama del Norte
 numero: OS01
 fecha: 
 tags: [diario-party, sesion, OS01]
 ---
 
-# Sesión OS01 — Las Ruinas Profanadas (vista del party)
+# Sesión OS01 — Las Ruinas Profanadas
 
 ## Qué recuerda el grupo
 Nivel 3. Lady Seraphine Duskryn, nuestra patrocinadora recién conocida,

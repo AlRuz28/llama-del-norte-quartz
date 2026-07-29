@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-item
+title: "Gem of Inner Light"
 campana: La Llama del Norte
 quien_lo_tiene: "[[../../pcs/norki-piepapitas]]"
 item_referencia: 

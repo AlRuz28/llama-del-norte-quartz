@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-lugar
+title: "Castle Never"
 campana: La Llama del Norte
 lugar_maestro: "[[Mundos/Neverwinter/lugares/castle-never]]"
 tags: [diario-party, lugar, neverwinter, conocimiento-general]

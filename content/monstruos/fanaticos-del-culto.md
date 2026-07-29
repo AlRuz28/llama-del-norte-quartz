@@ -1,12 +1,13 @@
 ---
 tipo: diario-party-monstruo
+title: "Fanáticos del Culto"
 fuente: srd
 campana: La Llama del Norte
 monstruo_maestro: 
 tags: [diario-party, monstruo, culto-asmodeus]
 ---
 
-# Fanáticos del Culto (notas del party)
+# Fanáticos del Culto
 
 ## Notas de campo
 - Cultistas devotos del Culto de Asmodeus, no simples matones a sueldo.

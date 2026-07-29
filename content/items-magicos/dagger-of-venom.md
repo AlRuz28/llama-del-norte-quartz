@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-item
+title: "Dagger of Venom"
 campana: La Llama del Norte
 quien_lo_tiene: "[[../../pcs/thaldeera]]"
 item_referencia: "[[Reglas/items-magicos/dagger-of-venom]]"

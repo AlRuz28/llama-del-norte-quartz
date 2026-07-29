@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-lugar
+title: "Almacén 7 y el Puerto"
 campana: La Llama del Norte
 lugar_maestro: "[[../../lugares/almacen-7-y-el-puerto]]"
 tags: [diario-party, lugar, puerto, contrabando]

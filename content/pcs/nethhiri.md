@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-pc
+title: "Nethhiri"
 campana: La Llama del Norte
 jugador: 
 raza: Tiefling

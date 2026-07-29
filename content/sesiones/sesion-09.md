@@ -1,12 +1,13 @@
 ---
 tipo: diario-party-sesion
+title: "Sesión OS09 — El cristal en el Complejo de Templos"
 campana: La Llama del Norte
 numero: OS09
 fecha: 
 tags: [diario-party, sesion, OS09]
 ---
 
-# Sesión OS09 — El cristal en el Complejo de Templos (vista del party)
+# Sesión OS09 — El cristal en el Complejo de Templos
 
 ![Sesión OS09 — Templo Triple](<imagenes/OS09 - Templo Triple.png>)
 

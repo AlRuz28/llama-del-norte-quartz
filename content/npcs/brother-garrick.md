@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-npc
+title: "Brother Garrick"
 campana: La Llama del Norte
 npc_maestro: "[[../../npcs/brother-garrick]]"
 estado: vivo

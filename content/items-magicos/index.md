@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-index
+title: "Objetos Mágicos"
 campana: La Llama del Norte
 tags: [diario-party, item, item-magico]
 ---

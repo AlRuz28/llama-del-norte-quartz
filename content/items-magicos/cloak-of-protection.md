@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-item
+title: "Cloak of Protection"
 campana: La Llama del Norte
 quien_lo_tiene: ["[[../../pcs/kaze]]", "[[../../pcs/waro-waro-waru]]"]
 item_referencia: "[[Reglas/items-magicos/cloak-of-protection]]"

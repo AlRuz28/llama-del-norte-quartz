@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-lugar
+title: "Mansión Ravencrest"
 campana: La Llama del Norte
 lugar_maestro: "[[../../lugares/mansion-ravencrest]]"
 tags: [diario-party, lugar, nobleza, combate]

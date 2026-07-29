@@ -1,12 +1,13 @@
 ---
 tipo: diario-party-monstruo
+title: "Wererat"
 fuente: srd
 campana: La Llama del Norte
 monstruo_maestro: "[[../../../Bestiario/srd/wererat]]"
 tags: [diario-party, monstruo, licantropo, culto-asmodeus, os07]
 ---
 
-# Wererat (notas del party)
+# Wererat
 
 ![Wererat](imagenes/Wererat.jpeg)
 

@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-npc
+title: "Corvin Adderly"
 campana: La Llama del Norte
 npc_maestro: "[[../../npcs/corvin-adderly]]"
 estado: vivo

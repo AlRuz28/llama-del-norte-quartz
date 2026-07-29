@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-npc
+title: "Aldus Greymantle"
 campana: La Llama del Norte
 npc_maestro: "[[../../npcs/aldus-greymantle]]"
 estado: vivo

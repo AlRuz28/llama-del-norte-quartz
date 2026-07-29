@@ -1,5 +1,6 @@
 ---
 tipo: diario-party-index
+title: "Bestiario"
 campana: La Llama del Norte
 tags: [diario-party, monstruo]
 ---
