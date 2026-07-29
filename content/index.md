@@ -7,6 +7,8 @@ tags: [diario-party]
 
 # Diario del Party — La Llama del Norte
 
+![Banner La Llama del Norte](<imagenes/Banner Principal.png>)
+
 Versión pública de la campaña: lo que el grupo sabe, vivió o enfrentó, sin
 spoilers de DM. Esto es lo que se publica como sitio de consulta con Quartz.
 
