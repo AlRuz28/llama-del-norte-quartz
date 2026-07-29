@@ -24,5 +24,4 @@ repite la palabra de mando o se usa otra función de la gema. Recarga al
 amanecer.
 
 ## Ficha mecánica
-*(homebrew — sin ficha de referencia en Reglas/items-magicos todavía;
-avisame si querés que le arme una página ahí)*
+*(homebrew — sin ficha de referencia en Reglas/items-magicos todavía)*

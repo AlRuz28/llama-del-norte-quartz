@@ -243,7 +243,7 @@ custodiado por criaturas que no se comportan como simples bestias.
 </style>
 
 > [!tip] ¿Viviste algo que no está acá?
-> Dejá tu propia versión de un encuentro, una corrección, o un detalle que
+> Deja tu propia versión de un encuentro, una corrección, o un detalle que
 > falte, en el [Formulario — Diario del Party](https://docs.google.com/forms/d/e/1FAIpQLSd8uUl8NXhav4WnATe-5RB6L4aIkv1S90wBtmJssQfpRbsKWg/viewform).
 > Se revisa y se suma a esta wiki.
 

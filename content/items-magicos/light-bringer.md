@@ -22,8 +22,7 @@ mejor que una espada normal, arde especialmente fuerte contra no-muertos,
 y puede iluminar una zona amplia mientras está desenvainada.
 
 ## Ficha mecánica
-*(Nota para Alfredo: "Light Bringer" no aparece con ese nombre en
-Reglas/items-magicos — por la descripción, parece un reskin de Sun Blade.
-Lo linkeo ahí a modo de mejor referencia disponible; avisame si es otra
-cosa.)*
+*(no aparece con ese nombre exacto en Reglas/items-magicos — por la
+descripción, parece un reskin de Sun Blade, referenciado abajo como la
+mejor aproximación disponible)*
 - [[Reglas/items-magicos/sun-blade]]

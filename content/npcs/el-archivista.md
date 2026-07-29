@@ -20,5 +20,5 @@ Hace una pregunta catalográfica antes de decidir si atacar.
   camino a los escritos de Vanecito.
 
 ## Impresión del grupo
-Predecible si sabés cómo tratarlo: responder bien te deja pasar, responder
+Predecible si sabes cómo tratarlo: responder bien te deja pasar, responder
 mal te cuesta un combate.
