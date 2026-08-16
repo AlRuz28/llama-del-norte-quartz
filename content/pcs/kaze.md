@@ -31,6 +31,10 @@ lo necesitan.
 - [[../sesiones/sesion-08]] — participó en El Vado.
 - [[../sesiones/sesion-09]] — se quedó afuera del Templo de Oghma junto a
   Brother Garrick mientras el resto investigaba el cristal.
+- [[../sesiones/sesion-09-2]] — sintonizó con el cristal, vio al Aboleth
+  y una figura de poder sin nombre bajo la ciudad, y entendió que esa
+  figura tiene un cristal parecido al de ellos. Ganó una dote nueva por
+  el riesgo asumido.
 
 ## Ficha rápida
 - Monje nivel 6, resistencia a daño de rayo (ascendencia de dragón de
@@ -38,3 +42,7 @@ lo necesitan.
   largo.
 - Ítem mágico: [[../items-magicos/cloak-of-protection|Cloak of
   Protection]].
+- Dote nueva (OS09-2): Echo from the Past — le da acceso a
+  Comprehend Languages y Locate Object sin gastar espacio de conjuro,
+  y un bonus a tiradas de Historia, a cambio de un riesgo si saca un 1
+  natural.

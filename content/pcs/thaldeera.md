@@ -27,6 +27,9 @@ Misericordia — puede tanto lastimar como curar con los mismos golpes.
   segundo intento; un [[../monstruos/grell|Grell]] la atacó dentro del
   trance y le arrebató vitalidad, expulsándola del vínculo con un fuerte
   dolor de cabeza.
+- [[../sesiones/sesion-09-2]] — volvió al cristal con el resto del
+  grupo; peleó en ambos combates mientras Kaze completaba la
+  sintonización.
 
 ## Ficha rápida
 - Monja (Warrior of Mercy) nivel 5, resistencias a daño radiante y

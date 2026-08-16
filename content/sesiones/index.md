@@ -16,3 +16,5 @@ tags: [diario-party, sesion]
 - [[sesion-07]] — Sangre Noble / Herencia de Cenizas (cierre del Arco 1)
 - [[sesion-08]] — El Vado del Río Frío
 - [[sesion-09]] — El cristal en el Complejo de Templos
+- [[interludio-01-el-enclave-esmeralda]] — Interludio 1: El Enclave Esmeralda
+- [[sesion-09-2]] — El Idioma de las Ruinas (continuación)

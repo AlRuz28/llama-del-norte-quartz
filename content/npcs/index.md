@@ -13,6 +13,8 @@ tags: [diario-party, npc]
 - [[sister-maela]] — clériga de Tymora, Cofre de Tymora
 - [[roran-blackflame]] — contacto Zhentarim
 - [[thalara-raizdebruma]] — druida del Enclave Esmeralda
+- [[selariel-altoviento]] — druida del Enclave Esmeralda, aliada externa
+  del guild
 - [[brother-garrick]] — clérigo de Tyr
 - [[corvin-adderly]] — erudito de Oghma
 - [[mira-holt]] — agente del Guild de Waterdeep

@@ -15,6 +15,7 @@ tags: [diario-party, lugar]
 - [[mansion-ravencrest]] — residencia de Lord Ravencrest
 - [[cofre-de-tymora]] — casa de empeños de Sister Maela
 - [[almacen-7-y-el-puerto]] — contrabando en el puerto
+- [[enclave-esmeralda]] — asentamiento druídico del Enclave Esmeralda
 
 ## Neverwinter — conocimiento general de la ciudad
 *(lugares conocidos por reputación, aunque no los hayamos visitado

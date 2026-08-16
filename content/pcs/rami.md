@@ -25,11 +25,16 @@ extraño y maravilloso.
 
 ## Relaciones
 - **Raka, la zarigüeya** — su compañera/aliada.
+- **Raymunda** — su paloma mensajera, ahora conoce el camino al Enclave
+  Esmeralda.
 
 ## Momentos clave
 - [[../sesiones/sesion-09]] — tocó a Corvin durante su trance con el
   cristal y fue arrastrada con él a un espacio psíquico blanco, donde lo
   ayudó a destruir un Nothic hasta que ambos pudieron salir.
+- [[../sesiones/interludio-01-el-enclave-esmeralda]] — fue sola a buscar
+  ayuda de Thalara en el Enclave Esmeralda y volvió con una semilla
+  protectora para el cristal.
 
 ## Ficha rápida
 - Druida (Circle of the Shepherd) nivel 5, inmune a sueño mágico, puede

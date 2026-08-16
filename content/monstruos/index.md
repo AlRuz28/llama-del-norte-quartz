@@ -21,3 +21,4 @@ mesa.
 - [[fanaticos-del-culto]] — cultistas devotos del Culto de Asmodeus
 - [[wererat]] — banda de ladrones de Silas Shadowbane, algunos siguen
   sueltos
+- [[gibbering-mouther]] — masa amorfa balbuceante, guardián del cristal

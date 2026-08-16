@@ -16,3 +16,4 @@ tags: [diario-party, pc]
 - [[sam-ador]] — Enano, Clérigo (Life Domain)
 - [[thaldeera]] — Aasimar, Monja (Warrior of Mercy)
 - [[ceredhel]] — Elfo, Explorador (Beast Master)
+- [[defilas]] — Halfling, Rogue

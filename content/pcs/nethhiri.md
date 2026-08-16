@@ -27,6 +27,8 @@ que puede pertenecer a algo más grande.
 
 ## Momentos clave
 - [[../sesiones/sesion-08]] — participó en El Vado.
+- [[../sesiones/sesion-09-2]] — volvió a meterse en el cristal, peleando
+  en ambos combates mientras Kaze sintonizaba.
 
 ## Ficha rápida
 - Hechicera (Wild Magic) nivel 5, resistencia al fuego (legado feérico
