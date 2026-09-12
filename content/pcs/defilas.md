@@ -29,8 +29,11 @@ Thaldeera y la ayuda puntual de Selariel Altoviento.
 - [[../sesiones/sesion-09-2]] — se une formalmente al guild y participa
   en la incursión al cristal, venciendo a los guardianes de la Puerta y
   a los sirvientes del Aboleth.
+- [[../sesiones/sesion-10]] — participó toda la partida en el Mausoleo de
+  Ilyykur; desactivó la trampa del Archivo Sellado sin disparar el
+  glifo. Se quedó con la Sun Blade encontrada en el segundo nivel.
 
 ## Ficha rápida
 - Rogue nivel 4. Rápido, difícil de ver venir, tan cómodo con dagas como
   con una pistola.
-- Sin ítems mágicos conocidos todavía.
+- Ítem mágico: Sun Blade (sintonizada, desde OS10).

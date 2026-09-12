@@ -18,3 +18,4 @@ tags: [diario-party, sesion]
 - [[sesion-09]] — El cristal en el Complejo de Templos
 - [[interludio-01-el-enclave-esmeralda]] — Interludio 1: El Enclave Esmeralda
 - [[sesion-09-2]] — El Idioma de las Ruinas (continuación)
+- [[sesion-10]] — Recolección Discreta

@@ -37,6 +37,8 @@ variedades raras.
 ## Momentos clave
 - [[../sesiones/sesion-08]] — invocó un delfín para explorar bajo el
   agua en El Vado.
+- [[../sesiones/sesion-10]] — participó toda la partida en el Mausoleo de
+  Ilyykur.
 
 ## Ficha rápida
 - Ranger (Hunter) nivel 6, buen ojo con el arco, se mueve igual de bien

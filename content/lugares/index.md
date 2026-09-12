@@ -16,6 +16,7 @@ tags: [diario-party, lugar]
 - [[cofre-de-tymora]] — casa de empeños de Sister Maela
 - [[almacen-7-y-el-puerto]] — contrabando en el puerto
 - [[enclave-esmeralda]] — asentamiento druídico del Enclave Esmeralda
+- [[mausoleo-de-ilyykur]] — tumba de dos niveles en Neverdeath
 
 ## Neverwinter — conocimiento general de la ciudad
 *(lugares conocidos por reputación, aunque no los hayamos visitado

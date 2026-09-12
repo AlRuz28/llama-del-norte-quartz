@@ -13,11 +13,12 @@ Al sureste de la ciudad: la Grieta que se abrió durante el cataclismo, ya
 sellada por Neverember, hoy tierra libre para colonos audaces o pobres.
 Al lado está **Neverdeath**, el cementerio de la ciudad — los cuerpos
 enterrados ahí tienden a reanimarse, así que hoy la mayoría de la gente
-prefiere cremar a sus muertos. Todavía no tuvimos ningún asunto que nos
-lleve por ahí.
+prefiere cremar a sus muertos. Lo comprobamos de primera mano en OS10.
 
 ## NPCs que conocieron ahí
-*(sin encuentros propios todavía — conocido por reputación)*
+*(sin NPCs propios del lugar — solo los no-muertos que reanima)*
 
 ## Visitas
-*(sin visita registrada — conocimiento general de la ciudad)*
+- [[../sesiones/sesion-10|OS10]] — búsqueda del [[mausoleo-de-ilyykur]]
+  a través del cementerio; nos cruzamos con no-muertos deambulando antes
+  de encontrarlo.

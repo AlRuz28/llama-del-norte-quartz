@@ -22,4 +22,5 @@ enfrentamos y capturamos en su mansión (OS07).
 ## Impresión del grupo
 Bajo custodia confesó que el Culto de Asmodeus lleva tiempo infiltrando la
 nobleza, pero no llegó a decir el nombre de a quién quería impresionar.
-Seguimos sin ninguna pista de quién es esa persona.
+Seguimos sin ninguna pista de quién es esa persona. Nos llegó después la
+noticia de que murió bajo custodia — no vimos cómo, pero no suena casual.

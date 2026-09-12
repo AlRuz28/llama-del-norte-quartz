@@ -22,3 +22,10 @@ mesa.
 - [[wererat]] — banda de ladrones de Silas Shadowbane, algunos siguen
   sueltos
 - [[gibbering-mouther]] — masa amorfa balbuceante, guardián del cristal
+- [[skeleton]] — no-muertos recién levantados en Neverdeath
+- [[zombie]] — escolta de un Wight en Neverdeath
+- [[wight]] — reanimador de cadáveres, dos veces en el mausoleo de Ilyykur
+- [[ghast]] — no-muerto salvaje, dos veces en el mausoleo de Ilyykur
+- [[animated-armor]] — armadura animada guardiana, mausoleo de Ilyykur
+- [[helmed-horror]] — armadura animada mayor, mausoleo de Ilyykur
+- [[necrichor]] — guardián final de la Bóveda Sellada, mausoleo de Ilyykur

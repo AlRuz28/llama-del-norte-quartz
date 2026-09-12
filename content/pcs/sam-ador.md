@@ -21,10 +21,13 @@ Enano de trasfondo Wayfarer, clérigo del Dominio de la Vida.
 *(sin vínculos específicos anotados todavía)*
 
 ## Momentos clave
-*(sin apariciones registradas todavía en las sesiones jugadas)*
+- [[../sesiones/sesion-10]] — participó toda la partida en el Mausoleo de
+  Ilyykur; se quedó con el Spell Scroll de *Magic Circle* encontrado en el
+  Archivo Sellado.
 
 ## Ficha rápida
 - Clérigo (Life Domain) nivel 5, resistencia a veneno, buen sentido de la
   vibración del terreno (Stonecunning), curación potenciada.
-- Ítem mágico: [[../items-magicos/light-bringer|"Light Bringer"]]
-  (probable reskin de Sun Blade, a confirmar).
+- Ítems mágicos: [[../items-magicos/light-bringer|Lightbringer]] — una
+  maza, no una espada (confirmado ítem oficial distinto de Sun Blade),
+  Spell Scroll de *Magic Circle* (consumible, sin sintonizar).

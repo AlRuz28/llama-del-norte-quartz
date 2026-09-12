@@ -27,12 +27,23 @@ tags: [diario-party, item, item-magico]
 - [[cloak-of-protection]] — sintonizado
 - [[rod-of-the-pact-keeper]] — sintonizado
 
+## Défilas
+- [[sun-blade|Sun Blade]] — sintonizada (encontrada en OS10, escondida
+  dentro de una Helmed Horror en el segundo nivel del
+  [[../lugares/mausoleo-de-ilyykur]])
+
 ## Oxxn
 - [[sentinel-shield]] — no requiere sintonía
+- [[dread-helm|Dread Helm]] — no requiere sintonía (OS10, loot de un Wight
+  en la Guardia Ceremonial del mausoleo)
+- [[spellguard-shield|Spellguard Shield]] — sintonizado (OS10, junto a la
+  vara que buscaba Roran en la cámara final del mausoleo)
 
 ## Sam Ádor
-- [[light-bringer]] — sintonizado (probable reskin de Sun Blade, a
-  confirmar)
+- [[light-bringer|Lightbringer]] — sintonizado, +1 Mace Uncommon (confirmado
+  ítem oficial distinto de Sun Blade, no una espada — ver ficha)
+- [[magic-circle-scroll|Spell Scroll de *Magic Circle*]] — sin sintonizar,
+  consumible (OS10, Archivo Sellado del mausoleo)
 
 ## Thaldeera
 - [[dagger-of-venom]] — no requiere sintonía

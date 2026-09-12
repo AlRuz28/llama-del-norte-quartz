@@ -46,3 +46,5 @@ tags: [diario-party, npc]
 - [[silas-shadowbane]] — el asesino, silenciado antes de hablar del todo
 - [[lord-emmett-ravencrest]] — organizó el asesinato, capturado y entregado
 - [[aldreth-vane]] — erudito antiguo, solo conocido por sus escritos
+- [[ilyykur]] — mago dueño del mausoleo que exploramos en OS10, muerto
+  hace casi mil años

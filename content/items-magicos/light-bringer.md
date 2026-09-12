@@ -3,12 +3,15 @@ tipo: diario-party-item
 title: "Light Bringer"
 campana: La Llama del Norte
 quien_lo_tiene: "[[../../pcs/sam-ador]]"
-item_referencia: "[[Reglas/items-magicos/sun-blade]]"
-fuente: srd
+item_referencia: "[[Reglas/items-magicos/lightbringer]]"
+fuente: oficial-fragmento
 tags: [diario-party, item, item-magico]
 ---
 
-# Light Bringer
+# Lightbringer
+
+*(conocido en la mesa como "Light Bringer"; el nombre oficial del ítem es
+una sola palabra, "Lightbringer")*
 
 ## Cómo lo consiguieron
 Sin registro de cómo o cuándo lo consiguió.
@@ -17,12 +20,13 @@ Sin registro de cómo o cuándo lo consiguió.
 [[../../pcs/sam-ador|Sam Ádor]] — sintonizado.
 
 ## Lo que saben de sus propiedades
-Una empuñadura que hace aparecer una hoja de pura luz al apretarla — corta
-mejor que una espada normal, arde especialmente fuerte contra no-muertos,
-y puede iluminar una zona amplia mientras está desenvainada.
+Una maza de cabeza en forma de estallido solar, de latón macizo — se ve
+sencilla hasta que Sam la hace brillar a voluntad, tan fuerte como una
+antorcha. Mientras brilla, golpea más fuerte a los no-muertos que a
+cualquier otra cosa. **Corrección de continuidad**: descripciones
+anteriores la describían como un arma de hoja luminosa (una posible
+espada) — eso era incorrecto; es una maza contundente, no una espada.
 
 ## Ficha mecánica
-*(no aparece con ese nombre exacto en Reglas/items-magicos — por la
-descripción, parece un reskin de Sun Blade, referenciado abajo como la
-mejor aproximación disponible)*
-- [[Reglas/items-magicos/sun-blade]]
+Ítem oficial confirmado, no-SRD (fragmento aportado por el usuario) — ver
+[[../../../Reglas/items-magicos/lightbringer]].

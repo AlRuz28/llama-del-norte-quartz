@@ -27,9 +27,17 @@ Ravencrest — quien, bajo custodia, confesó que el Culto de Asmodeus se
 infiltra en la nobleza de la ciudad. Cerramos ese capítulo exonerados ante
 el Capitán Stonebridge y heredamos nuestra propia sede.
 
-Ahora investigamos un cristal de magia aberrante recuperado en El Vado del
-Río Frío, que parece conectar con algo mucho más antiguo bajo Neverwinter —
-custodiado por criaturas que no se comportan como simples bestias.
+Investigamos un cristal de magia aberrante recuperado en El Vado del Río
+Frío, que parece conectar con algo mucho más antiguo bajo Neverwinter —
+custodiado por criaturas que no se comportan como simples bestias. Poco
+después de eso, Défilas —un halfling nuevo, buscando aventuras para poder
+volver a su pueblo y cobrar su herencia— se unió al guild.
+
+Nuestro trabajo más reciente fue un mandado aparentemente simple para
+Roran Blackflame: recuperar intacta una vara arcana del Mausoleo de
+Ilyykur, en el cementerio de Neverdeath. Terminó siendo un descenso de dos
+niveles contra no-muertos y guardianes de piedra animada — el peor de
+todos, un Necrichor guardando la bóveda más profunda.
 
 ## Línea de tiempo de la campaña
 
@@ -48,7 +56,7 @@ custodiado por criaturas que no se comportan como simples bestias.
 <div style="font-size:11px;font-weight:600;color:var(--dark);">OS01</div>
 <div style="font-size:10px;color:var(--gray);margin-bottom:4px;">03 Tarshakh</div>
 <div style="font-size:10.5px;color:var(--darkgray);line-height:1.3;margin-bottom:6px;">Las Ruinas Profanadas</div>
-<div style="display:grid;grid-template-columns:repeat(9,1fr);gap:2px;justify-content:center;">
+<div style="display:grid;grid-template-columns:repeat(10,1fr);gap:2px;justify-content:center;">
 <span title="Kaze" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
 <span title="Norki" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
 <span title="Nethhiri" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
@@ -58,6 +66,7 @@ custodiado por criaturas que no se comportan como simples bestias.
 <span title="Sam Ádor" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
 <span title="Thaldeera" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
 <span title="Ceredhel" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
+<span title="Défilas" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
 </div>
 </div>
 
@@ -72,7 +81,7 @@ custodiado por criaturas que no se comportan como simples bestias.
 <div style="font-size:11px;font-weight:600;color:var(--dark);">OS02</div>
 <div style="font-size:10px;color:var(--gray);margin-bottom:4px;">25 Tarshakh</div>
 <div style="font-size:10.5px;color:var(--darkgray);line-height:1.3;margin-bottom:6px;">Sangre en el Camino</div>
-<div style="display:grid;grid-template-columns:repeat(9,1fr);gap:2px;justify-content:center;">
+<div style="display:grid;grid-template-columns:repeat(10,1fr);gap:2px;justify-content:center;">
 <span title="Kaze" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
 <span title="Norki" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
 <span title="Nethhiri" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
@@ -82,6 +91,7 @@ custodiado por criaturas que no se comportan como simples bestias.
 <span title="Sam Ádor" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
 <span title="Thaldeera" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
 <span title="Ceredhel" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
+<span title="Défilas" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
 </div>
 </div>
 
@@ -90,7 +100,7 @@ custodiado por criaturas que no se comportan como simples bestias.
 <div style="font-size:11px;font-weight:600;color:var(--dark);">OS03</div>
 <div style="font-size:10px;color:var(--gray);margin-bottom:4px;">27 Tarshakh</div>
 <div style="font-size:10.5px;color:var(--darkgray);line-height:1.3;margin-bottom:6px;">Contrabando Mágico en el Puerto</div>
-<div style="display:grid;grid-template-columns:repeat(9,1fr);gap:2px;justify-content:center;">
+<div style="display:grid;grid-template-columns:repeat(10,1fr);gap:2px;justify-content:center;">
 <span title="Kaze" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
 <span title="Norki" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
 <span title="Nethhiri" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
@@ -100,6 +110,7 @@ custodiado por criaturas que no se comportan como simples bestias.
 <span title="Sam Ádor" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
 <span title="Thaldeera" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
 <span title="Ceredhel" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
+<span title="Défilas" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
 </div>
 </div>
 
@@ -108,7 +119,7 @@ custodiado por criaturas que no se comportan como simples bestias.
 <div style="font-size:11px;font-weight:600;color:var(--dark);">OS05</div>
 <div style="font-size:10px;color:var(--gray);margin-bottom:4px;">29 Tarshakh</div>
 <div style="font-size:10.5px;color:var(--darkgray);line-height:1.3;margin-bottom:6px;">Negocios Peligrosos</div>
-<div style="display:grid;grid-template-columns:repeat(9,1fr);gap:2px;justify-content:center;">
+<div style="display:grid;grid-template-columns:repeat(10,1fr);gap:2px;justify-content:center;">
 <span title="Kaze" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
 <span title="Norki" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
 <span title="Nethhiri" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
@@ -118,6 +129,7 @@ custodiado por criaturas que no se comportan como simples bestias.
 <span title="Sam Ádor" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
 <span title="Thaldeera" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
 <span title="Ceredhel" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
+<span title="Défilas" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
 </div>
 </div>
 
@@ -126,7 +138,7 @@ custodiado por criaturas que no se comportan como simples bestias.
 <div style="font-size:11px;font-weight:600;color:var(--dark);">OS04</div>
 <div style="font-size:10px;color:var(--gray);margin-bottom:4px;">Día del Verdor</div>
 <div style="font-size:10.5px;color:var(--darkgray);line-height:1.3;margin-bottom:6px;">El Verdor Encadenado</div>
-<div style="display:grid;grid-template-columns:repeat(9,1fr);gap:2px;justify-content:center;">
+<div style="display:grid;grid-template-columns:repeat(10,1fr);gap:2px;justify-content:center;">
 <span title="Kaze" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
 <span title="Norki" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
 <span title="Nethhiri" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
@@ -136,6 +148,7 @@ custodiado por criaturas que no se comportan como simples bestias.
 <span title="Sam Ádor" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
 <span title="Thaldeera" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
 <span title="Ceredhel" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
+<span title="Défilas" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
 </div>
 </div>
 
@@ -144,7 +157,7 @@ custodiado por criaturas que no se comportan como simples bestias.
 <div style="font-size:11px;font-weight:600;color:var(--dark);">OS06</div>
 <div style="font-size:10px;color:var(--gray);margin-bottom:4px;">14 Mirtul</div>
 <div style="font-size:10.5px;color:var(--darkgray);line-height:1.3;margin-bottom:6px;">Pactos Bajo la Luna</div>
-<div style="display:grid;grid-template-columns:repeat(9,1fr);gap:2px;justify-content:center;">
+<div style="display:grid;grid-template-columns:repeat(10,1fr);gap:2px;justify-content:center;">
 <span title="Kaze" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
 <span title="Norki" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
 <span title="Nethhiri" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
@@ -154,6 +167,7 @@ custodiado por criaturas que no se comportan como simples bestias.
 <span title="Sam Ádor" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
 <span title="Thaldeera" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
 <span title="Ceredhel" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
+<span title="Défilas" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
 </div>
 </div>
 
@@ -162,7 +176,7 @@ custodiado por criaturas que no se comportan como simples bestias.
 <div style="font-size:11px;font-weight:600;color:var(--dark);">OS07</div>
 <div style="font-size:10px;color:var(--gray);margin-bottom:4px;">27-28 Mirtul</div>
 <div style="font-size:10.5px;color:var(--darkgray);line-height:1.3;margin-bottom:6px;">Sangre Noble / Herencia de Cenizas</div>
-<div style="display:grid;grid-template-columns:repeat(9,1fr);gap:2px;justify-content:center;">
+<div style="display:grid;grid-template-columns:repeat(10,1fr);gap:2px;justify-content:center;">
 <span title="Kaze" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
 <span title="Norki" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
 <span title="Nethhiri" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
@@ -172,6 +186,7 @@ custodiado por criaturas que no se comportan como simples bestias.
 <span title="Sam Ádor" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
 <span title="Thaldeera" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
 <span title="Ceredhel" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
+<span title="Défilas" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
 </div>
 <div style="font-size:9px;color:#E6B854;margin-top:3px;">nivel 4→5 (todo el guild)</div>
 </div>
@@ -187,7 +202,7 @@ custodiado por criaturas que no se comportan como simples bestias.
 <div style="font-size:11px;font-weight:600;color:var(--dark);">OS08</div>
 <div style="font-size:10px;color:var(--gray);margin-bottom:4px;">14 Kyzhorn</div>
 <div style="font-size:10.5px;color:var(--darkgray);line-height:1.3;margin-bottom:6px;">El Vado del Río Frío</div>
-<div style="display:grid;grid-template-columns:repeat(9,1fr);gap:2px;justify-content:center;">
+<div style="display:grid;grid-template-columns:repeat(10,1fr);gap:2px;justify-content:center;">
 <span title="Kaze" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
 <span title="Norki" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
 <span title="Nethhiri" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
@@ -197,6 +212,7 @@ custodiado por criaturas que no se comportan como simples bestias.
 <span title="Sam Ádor" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
 <span title="Thaldeera" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
 <span title="Ceredhel" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
+<span title="Défilas" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
 </div>
 </div>
 
@@ -205,7 +221,7 @@ custodiado por criaturas que no se comportan como simples bestias.
 <div style="font-size:11px;font-weight:600;color:var(--dark);">OS09</div>
 <div style="font-size:10px;color:var(--gray);margin-bottom:4px;">19 Kyzhorn</div>
 <div style="font-size:10.5px;color:var(--darkgray);line-height:1.3;margin-bottom:6px;">El cristal en el Complejo de Templos</div>
-<div style="display:grid;grid-template-columns:repeat(9,1fr);gap:2px;justify-content:center;">
+<div style="display:grid;grid-template-columns:repeat(10,1fr);gap:2px;justify-content:center;">
 <span title="Kaze" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
 <span title="Norki" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
 <span title="Nethhiri" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
@@ -215,6 +231,46 @@ custodiado por criaturas que no se comportan como simples bestias.
 <span title="Sam Ádor" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
 <span title="Thaldeera" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
 <span title="Ceredhel" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
+<span title="Défilas" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
+</div>
+</div>
+
+<div class="llama-node" style="box-sizing:border-box; flex:0 0 auto; width:128px; text-align:center; position:relative; z-index:1; padding:0 6px; animation-delay:.50s;">
+<div style="width:14px;height:14px;border-radius:50%;background:var(--secondary);margin:0 auto 6px;"></div>
+<div style="font-size:11px;font-weight:600;color:var(--dark);">OS09-2</div>
+<div style="font-size:10px;color:var(--gray);margin-bottom:4px;">19 Kyzhorn (mismo día)</div>
+<div style="font-size:10.5px;color:var(--darkgray);line-height:1.3;margin-bottom:6px;">El Idioma de las Ruinas (continuación)</div>
+<div style="display:grid;grid-template-columns:repeat(10,1fr);gap:2px;justify-content:center;">
+<span title="Kaze" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
+<span title="Norki" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
+<span title="Nethhiri" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
+<span title="Rami" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
+<span title="Waro Waro Waru" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
+<span title="Oxxn" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
+<span title="Sam Ádor" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
+<span title="Thaldeera" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
+<span title="Ceredhel" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
+<span title="Défilas" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
+</div>
+<div style="font-size:9px;color:var(--gray);margin-top:3px;">Défilas se une al guild</div>
+</div>
+
+<div class="llama-node" style="box-sizing:border-box; flex:0 0 auto; width:128px; text-align:center; position:relative; z-index:1; padding:0 6px; animation-delay:.54s;">
+<div style="width:16px;height:16px;border-radius:50%;background:var(--secondary);margin:0 auto 6px;box-shadow:0 0 0 3px color-mix(in srgb, var(--secondary) 25%, transparent);"></div>
+<div style="font-size:11px;font-weight:600;color:var(--dark);">OS10</div>
+<div style="font-size:10px;color:var(--gray);margin-bottom:4px;">3 Flamarul</div>
+<div style="font-size:10.5px;color:var(--darkgray);line-height:1.3;margin-bottom:6px;">Recolección Discreta</div>
+<div style="display:grid;grid-template-columns:repeat(10,1fr);gap:2px;justify-content:center;">
+<span title="Kaze" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
+<span title="Norki" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
+<span title="Nethhiri" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
+<span title="Rami" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
+<span title="Waro Waro Waru" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
+<span title="Oxxn" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
+<span title="Sam Ádor" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
+<span title="Thaldeera" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
+<span title="Ceredhel" style="width:7px;height:7px;border-radius:50%;background:var(--gray);"></span>
+<span title="Défilas" style="width:7px;height:7px;border-radius:50%;background:var(--secondary);"></span>
 </div>
 <div style="font-size:9px;color:#7FA8C9;margin-top:3px;">hoy</div>
 </div>
@@ -232,6 +288,7 @@ custodiado por criaturas que no se comportan como simples bestias.
 <span><b style="color:var(--dark);">Sam Ádor</b> · nivel 5</span>
 <span><b style="color:var(--dark);">Thaldeera</b> · nivel 5</span>
 <span><b style="color:var(--dark);">Ceredhel</b> · nivel 4</span>
+<span><b style="color:var(--dark);">Défilas</b> · nivel 4</span>
 </div>
 
 <style>

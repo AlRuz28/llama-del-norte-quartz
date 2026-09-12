@@ -23,6 +23,8 @@ Serpiente Negra.
   intermediarios de un cargamento sospechoso en el puerto.
 - [[../sesiones/sesion-05|OS05]] — nos contrata (vía Sister Maela) para
   recuperar un cargamento robado por Los Colmillos de Hierro.
+- [[../sesiones/sesion-10|OS10]] — nos encarga recuperar intacta una vara
+  del Mausoleo de Ilyykur en Neverdeath; paga 4.400 GP contra entrega.
 
 ## Impresión del grupo
 Nos consideró "profesionales" tras resolver el asunto del cargamento — un

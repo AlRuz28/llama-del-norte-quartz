@@ -21,9 +21,14 @@ Orco de trasfondo soldado, paladín bajo el Juramento de Venganza.
 *(sin vínculos específicos anotados todavía)*
 
 ## Momentos clave
-*(sin apariciones registradas todavía en las sesiones jugadas)*
+- [[../sesiones/sesion-10]] — se unió al resto del grupo recién en el
+  segundo nivel del Mausoleo de Ilyykur; activó, sin saberlo, la última
+  runa de alarma que venían evitando. Se quedó con el Dread Helm y el
+  Spellguard Shield.
 
 ## Ficha rápida
 - Paladín (Oath of Vengeance) nivel 5, puede sentir la presencia de
   celestiales, fiends y no-muertos cerca suyo, resistencia física de
   orco, buena visión en la oscuridad.
+- Ítems mágicos: [[../items-magicos/index|Sentinel Shield]], Dread Helm,
+  Spellguard Shield (sintonizado).
