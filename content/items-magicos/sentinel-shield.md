@@ -2,7 +2,7 @@
 tipo: diario-party-item
 title: "Sentinel Shield"
 campana: La Llama del Norte
-quien_lo_tiene: "[[../../pcs/oxxn]]"
+quien_lo_tiene: "[[../pcs/oxxn]]"
 item_referencia: "[[Reglas/items-magicos/sentinel-shield]]"
 fuente: srd
 tags: [diario-party, item, item-magico]
@@ -14,7 +14,7 @@ tags: [diario-party, item, item-magico]
 Sin registro de cómo o cuándo lo consiguió.
 
 ## Quién lo lleva
-[[../../pcs/oxxn|Oxxn]] — no requiere sintonía.
+[[../pcs/oxxn|Oxxn]] — no requiere sintonía.
 
 ## Lo que saben de sus propiedades
 Un escudo con un ojo grabado. Quien lo lleva reacciona más rápido en

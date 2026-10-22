@@ -2,7 +2,7 @@
 tipo: diario-party-item
 title: "Rod of the Pact Keeper +1"
 campana: La Llama del Norte
-quien_lo_tiene: "[[../../pcs/waro-waro-waru]]"
+quien_lo_tiene: "[[../pcs/waro-waro-waru]]"
 item_referencia: "[[Reglas/items-magicos/rod-of-the-pact-keeper]]"
 fuente: srd
 tags: [diario-party, item, item-magico]
@@ -14,7 +14,7 @@ tags: [diario-party, item, item-magico]
 Sin registro de cómo o cuándo lo consiguió.
 
 ## Quién lo lleva
-[[../../pcs/waro-waro-waru|Waro Waro Waru]] — sintonizado.
+[[../pcs/waro-waro-waru|Waro Waro Waru]] — sintonizado.
 
 ## Lo que saben de sus propiedades
 Una vara ligada al pacto de Waro con su patrón — potencia sus hechizos y

@@ -1,7 +1,7 @@
 ---
 tipo: diario-party-monstruo
 title: "Grell"
-fuente: oficial-fragmento
+fuente: oficial
 campana: La Llama del Norte
 monstruo_maestro: 
 tags: [diario-party, monstruo, aberracion, cristal]

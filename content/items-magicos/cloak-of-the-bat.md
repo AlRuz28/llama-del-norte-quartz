@@ -2,7 +2,7 @@
 tipo: diario-party-item
 title: "Cloak of the Bat"
 campana: La Llama del Norte
-quien_lo_tiene: "[[../../pcs/norki-piepapitas]]"
+quien_lo_tiene: "[[../pcs/norki-piepapitas]]"
 item_referencia: "[[Reglas/items-magicos/cloak-of-the-bat]]"
 fuente: srd
 tags: [diario-party, item, item-magico]
@@ -14,7 +14,7 @@ tags: [diario-party, item, item-magico]
 Sin registro de cómo o cuándo lo consiguió.
 
 ## Quién lo lleva
-[[../../pcs/norki-piepapitas|Norki Piepapitas]] — sin sintonizar todavía.
+[[../pcs/norki-piepapitas|Norki Piepapitas]] — sin sintonizar todavía.
 
 ## Lo que saben de sus propiedades
 De noche o en la oscuridad, da ventaja para pasar desapercibido — y hay

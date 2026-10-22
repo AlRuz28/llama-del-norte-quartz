@@ -2,9 +2,9 @@
 tipo: diario-party-item
 title: "Bloodwell Vial +1"
 campana: La Llama del Norte
-quien_lo_tiene: "[[../../pcs/nethhiri]]"
+quien_lo_tiene: "[[../pcs/nethhiri]]"
 item_referencia: 
-fuente: oficial-fragmento
+fuente: oficial
 tags: [diario-party, item, item-magico]
 ---
 
@@ -14,7 +14,7 @@ tags: [diario-party, item, item-magico]
 Sin registro de cómo o cuándo lo consiguió.
 
 ## Quién lo lleva
-[[../../pcs/nethhiri|Nethhiri]] — sintonizado (solo puede sintonizarlo
+[[../pcs/nethhiri|Nethhiri]] — sintonizado (solo puede sintonizarlo
 alguien con sangre de hechicero).
 
 ## Lo que saben de sus propiedades
@@ -27,6 +27,4 @@ de hechicero (más alto cuanto más raro es el vial — el de Nethhiri da
 vida mientras lo lleva encima, recupera puntos de hechicería.
 
 ## Ficha mecánica
-*(sin ficha de referencia en Reglas/items-magicos — es de un sourcebook
-pago, no SRD; los datos de arriba son solo lo mecánico/funcional, sin
-copiar el texto del libro)*
+*(sin ficha de referencia en Reglas/items-magicos todavía)*

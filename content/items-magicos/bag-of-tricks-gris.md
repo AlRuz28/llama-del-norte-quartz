@@ -2,7 +2,7 @@
 tipo: diario-party-item
 title: "Bag of Tricks (gris)"
 campana: La Llama del Norte
-quien_lo_tiene: "[[../../pcs/rami]]"
+quien_lo_tiene: "[[../pcs/rami]]"
 item_referencia: "[[Reglas/items-magicos/bag-of-tricks]]"
 fuente: srd
 tags: [diario-party, item, item-magico]
@@ -14,7 +14,7 @@ tags: [diario-party, item, item-magico]
 Sin registro de cómo o cuándo lo consiguió.
 
 ## Quién lo lleva
-[[../../pcs/rami|Rami]] — no requiere sintonía.
+[[../pcs/rami|Rami]] — no requiere sintonía.
 
 ## Lo que saben de sus propiedades
 Una bolsa de tela gris que parece vacía, pero adentro siempre hay un

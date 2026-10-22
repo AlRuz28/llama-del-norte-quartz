@@ -2,9 +2,9 @@
 tipo: diario-party-item
 title: "Light Bringer"
 campana: La Llama del Norte
-quien_lo_tiene: "[[../../pcs/sam-ador]]"
+quien_lo_tiene: "[[../pcs/sam-ador]]"
 item_referencia: "[[Reglas/items-magicos/lightbringer]]"
-fuente: oficial-fragmento
+fuente: oficial
 tags: [diario-party, item, item-magico]
 ---
 
@@ -17,7 +17,7 @@ una sola palabra, "Lightbringer")*
 Sin registro de cómo o cuándo lo consiguió.
 
 ## Quién lo lleva
-[[../../pcs/sam-ador|Sam Ádor]] — sintonizado.
+[[../pcs/sam-ador|Sam Ádor]] — sintonizado.
 
 ## Lo que saben de sus propiedades
 Una maza de cabeza en forma de estallido solar, de latón macizo — se ve
@@ -29,4 +29,4 @@ espada) — eso era incorrecto; es una maza contundente, no una espada.
 
 ## Ficha mecánica
 Ítem oficial confirmado, no-SRD (fragmento aportado por el usuario) — ver
-[[../../../Reglas/items-magicos/lightbringer]].
+[[Reglas/items-magicos/lightbringer]].

@@ -2,7 +2,7 @@
 tipo: diario-party-item
 title: "Necklace of Adaptation"
 campana: La Llama del Norte
-quien_lo_tiene: "[[../../pcs/thaldeera]]"
+quien_lo_tiene: "[[../pcs/thaldeera]]"
 item_referencia: "[[Reglas/items-magicos/necklace-of-adaptation]]"
 fuente: srd
 tags: [diario-party, item, item-magico]
@@ -14,7 +14,7 @@ tags: [diario-party, item, item-magico]
 Sin registro de cómo o cuándo lo consiguió.
 
 ## Quién lo lleva
-[[../../pcs/thaldeera|Thaldeera]] — sintonizado.
+[[../pcs/thaldeera|Thaldeera]] — sintonizado.
 
 ## Lo que saben de sus propiedades
 Un collar que permite respirar con normalidad en cualquier ambiente

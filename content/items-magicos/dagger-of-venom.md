@@ -2,7 +2,7 @@
 tipo: diario-party-item
 title: "Dagger of Venom"
 campana: La Llama del Norte
-quien_lo_tiene: "[[../../pcs/thaldeera]]"
+quien_lo_tiene: "[[../pcs/thaldeera]]"
 item_referencia: "[[Reglas/items-magicos/dagger-of-venom]]"
 fuente: srd
 tags: [diario-party, item, item-magico]
@@ -14,7 +14,7 @@ tags: [diario-party, item, item-magico]
 Sin registro de cómo o cuándo lo consiguió.
 
 ## Quién lo lleva
-[[../../pcs/thaldeera|Thaldeera]] — no requiere sintonía.
+[[../pcs/thaldeera|Thaldeera]] — no requiere sintonía.
 
 ## Lo que saben de sus propiedades
 Una daga que golpea con más fuerza que una normal, y que se puede cubrir
